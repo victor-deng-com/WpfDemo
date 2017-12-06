@@ -1,0 +1,13 @@
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo08_CodeAddControl\bin\Debug\Demo08_CodeAddControl.exe.config
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo08_CodeAddControl\bin\Debug\Demo08_CodeAddControl.exe
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo08_CodeAddControl\bin\Debug\Demo08_CodeAddControl.pdb
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo08_CodeAddControl\obj\Debug\MainWindow.g.cs
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo08_CodeAddControl\obj\Debug\App.g.cs
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo08_CodeAddControl\obj\Debug\Demo08_CodeAddControl_MarkupCompile.cache
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo08_CodeAddControl\obj\Debug\Demo08_CodeAddControl_MarkupCompile.lref
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo08_CodeAddControl\obj\Debug\MainWindow.baml
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo08_CodeAddControl\obj\Debug\Demo08_CodeAddControl.g.resources
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo08_CodeAddControl\obj\Debug\Demo08_CodeAddControl.Properties.Resources.resources
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo08_CodeAddControl\obj\Debug\Demo08_CodeAddControl.csproj.GenerateResource.Cache
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo08_CodeAddControl\obj\Debug\Demo08_CodeAddControl.exe
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo08_CodeAddControl\obj\Debug\Demo08_CodeAddControl.pdb

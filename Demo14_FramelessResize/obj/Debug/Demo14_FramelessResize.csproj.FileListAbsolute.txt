@@ -1,0 +1,14 @@
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo14_FramelessResize\bin\Debug\Demo14_FramelessResize.exe.config
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo14_FramelessResize\bin\Debug\Demo14_FramelessResize.exe
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo14_FramelessResize\bin\Debug\Demo14_FramelessResize.pdb
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo14_FramelessResize\obj\Debug\Demo14_FramelessResize.csprojResolveAssemblyReference.cache
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo14_FramelessResize\obj\Debug\MainWindow.g.cs
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo14_FramelessResize\obj\Debug\App.g.cs
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo14_FramelessResize\obj\Debug\Demo14_FramelessResize_MarkupCompile.cache
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo14_FramelessResize\obj\Debug\Demo14_FramelessResize_MarkupCompile.lref
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo14_FramelessResize\obj\Debug\MainWindow.baml
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo14_FramelessResize\obj\Debug\Demo14_FramelessResize.g.resources
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo14_FramelessResize\obj\Debug\Demo14_FramelessResize.Properties.Resources.resources
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo14_FramelessResize\obj\Debug\Demo14_FramelessResize.csproj.GenerateResource.Cache
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo14_FramelessResize\obj\Debug\Demo14_FramelessResize.exe
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo14_FramelessResize\obj\Debug\Demo14_FramelessResize.pdb

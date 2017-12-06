@@ -1,0 +1,13 @@
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo05_ImageAndProgressBar\bin\Debug\Demo05_ImageAndProgressBar.exe.config
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo05_ImageAndProgressBar\bin\Debug\Demo05_ImageAndProgressBar.exe
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo05_ImageAndProgressBar\bin\Debug\Demo05_ImageAndProgressBar.pdb
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo05_ImageAndProgressBar\obj\Debug\MainWindow.g.cs
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo05_ImageAndProgressBar\obj\Debug\App.g.cs
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo05_ImageAndProgressBar\obj\Debug\Demo05_ImageAndProgressBar_MarkupCompile.cache
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo05_ImageAndProgressBar\obj\Debug\Demo05_ImageAndProgressBar_MarkupCompile.lref
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo05_ImageAndProgressBar\obj\Debug\MainWindow.baml
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo05_ImageAndProgressBar\obj\Debug\Demo05_ImageAndProgressBar.g.resources
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo05_ImageAndProgressBar\obj\Debug\Demo05_ImageAndProgressBar.Properties.Resources.resources
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo05_ImageAndProgressBar\obj\Debug\Demo05_ImageAndProgressBar.csproj.GenerateResource.Cache
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo05_ImageAndProgressBar\obj\Debug\Demo05_ImageAndProgressBar.exe
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo05_ImageAndProgressBar\obj\Debug\Demo05_ImageAndProgressBar.pdb

@@ -1,0 +1,14 @@
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo01_TIMInterface\bin\Debug\Demo01_TIMInterface.exe.config
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo01_TIMInterface\bin\Debug\Demo01_TIMInterface.exe
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo01_TIMInterface\bin\Debug\Demo01_TIMInterface.pdb
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo01_TIMInterface\obj\Debug\Demo01_TIMInterface.csprojResolveAssemblyReference.cache
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo01_TIMInterface\obj\Debug\MainWindow.g.cs
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo01_TIMInterface\obj\Debug\App.g.cs
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo01_TIMInterface\obj\Debug\Demo01_TIMInterface_MarkupCompile.cache
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo01_TIMInterface\obj\Debug\Demo01_TIMInterface_MarkupCompile.lref
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo01_TIMInterface\obj\Debug\MainWindow.baml
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo01_TIMInterface\obj\Debug\Demo01_TIMInterface.g.resources
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo01_TIMInterface\obj\Debug\Demo01_TIMInterface.Properties.Resources.resources
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo01_TIMInterface\obj\Debug\Demo01_TIMInterface.csproj.GenerateResource.Cache
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo01_TIMInterface\obj\Debug\Demo01_TIMInterface.exe
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo01_TIMInterface\obj\Debug\Demo01_TIMInterface.pdb

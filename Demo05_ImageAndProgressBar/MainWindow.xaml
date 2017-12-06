@@ -1,0 +1,16 @@
+﻿<Window x:Class="Demo05_ImageAndProgressBar.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Demo05_ImageAndProgressBar"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Image x:Name="image" Source="Images/1.jpg" HorizontalAlignment="Left" Height="163" Margin="23,21,0,0" VerticalAlignment="Top" Width="154"/>
+        <ProgressBar Name="ProgressBar" HorizontalAlignment="Left" Minimum="0" Maximum="100" Value="10" Height="40" Margin="36,208,0,0" VerticalAlignment="Top" Width="439"/>
+        <Button x:Name="btn_add" Content="增加进度条" HorizontalAlignment="Left" Margin="36,264,0,0" VerticalAlignment="Top" Width="151" Height="30" Click="btn_add_Click"/>
+        <ProgressBar HorizontalAlignment="Left" IsIndeterminate="True" Height="24" Margin="182,160,0,0" VerticalAlignment="Top" Width="293"/>
+
+    </Grid>
+</Window>

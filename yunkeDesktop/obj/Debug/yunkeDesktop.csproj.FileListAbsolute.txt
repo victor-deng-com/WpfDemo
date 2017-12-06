@@ -1,0 +1,13 @@
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\yunkeDesktop\bin\Debug\yunkeDesktop.exe.config
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\yunkeDesktop\bin\Debug\yunkeDesktop.exe
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\yunkeDesktop\bin\Debug\yunkeDesktop.pdb
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\yunkeDesktop\obj\Debug\MainWindow.g.cs
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\yunkeDesktop\obj\Debug\App.g.cs
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\yunkeDesktop\obj\Debug\yunkeDesktop_MarkupCompile.cache
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\yunkeDesktop\obj\Debug\yunkeDesktop_MarkupCompile.lref
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\yunkeDesktop\obj\Debug\MainWindow.baml
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\yunkeDesktop\obj\Debug\yunkeDesktop.g.resources
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\yunkeDesktop\obj\Debug\yunkeDesktop.Properties.Resources.resources
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\yunkeDesktop\obj\Debug\yunkeDesktop.csproj.GenerateResource.Cache
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\yunkeDesktop\obj\Debug\yunkeDesktop.exe
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\yunkeDesktop\obj\Debug\yunkeDesktop.pdb

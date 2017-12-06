@@ -1,0 +1,61 @@
+﻿<Window x:Class="yunkeDesktop.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:yunkeDesktop"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="650" Width="800" Loaded="Window_Loaded">
+    <Grid>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition MinHeight="50" MaxHeight="50"></RowDefinition>
+                <RowDefinition MinHeight="50" MaxHeight="60"></RowDefinition>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition MaxWidth="150"></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition></RowDefinition>
+                </Grid.RowDefinitions>
+                <Button Content="当前店铺：全部" Margin="10" Grid.Row="0" Grid.Column="0"></Button>
+                <TextBox Text="模糊查询客户昵称" Margin="10,10,400,10" Grid.Row="0" Grid.Column="1" TextAlignment="Center"></TextBox>
+            </Grid>
+            <StackPanel Orientation="Horizontal" Grid.Row="1" Grid.Column="0">
+                <Button Content="全  部" Margin="10" MinWidth="80"></Button>
+                <Button Content="未回复" Margin="10" MinWidth="80"></Button>
+                <Button Content="未  读" Margin="10" MinWidth="80"></Button>
+            </StackPanel>
+            <Grid Grid.Column="0" Grid.Row="2">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="200"></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition></RowDefinition>
+                </Grid.RowDefinitions>
+                <Grid Grid.Column="1" Grid.Row="0">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition></RowDefinition>
+                        <RowDefinition Height="120"></RowDefinition>
+                    </Grid.RowDefinitions>
+                    <TextBox Grid.Row="1" Margin="5" Height="80" VerticalAlignment="Top"></TextBox>
+                    <Button Margin="5" Grid.Column="0" Grid.Row="1" Height="30" Width="100" Content="发  送" HorizontalAlignment="Right" VerticalAlignment="Bottom"></Button>
+                </Grid>
+                <Grid Name="grid_buyer">
+                    
+                    
+                </Grid>
+            </Grid>
+        </Grid>
+    </Grid>
+</Window>

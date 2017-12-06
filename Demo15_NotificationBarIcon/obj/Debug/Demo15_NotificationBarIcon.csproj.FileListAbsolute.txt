@@ -1,0 +1,14 @@
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo15_NotificationBarIcon\bin\Debug\Demo15_NotificationBarIcon.exe.config
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo15_NotificationBarIcon\obj\Debug\Demo15_NotificationBarIcon.csprojResolveAssemblyReference.cache
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo15_NotificationBarIcon\obj\Debug\MainWindow.g.cs
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo15_NotificationBarIcon\obj\Debug\App.g.cs
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo15_NotificationBarIcon\obj\Debug\Demo15_NotificationBarIcon_MarkupCompile.cache
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo15_NotificationBarIcon\obj\Debug\Demo15_NotificationBarIcon_MarkupCompile.lref
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo15_NotificationBarIcon\bin\Debug\Demo15_NotificationBarIcon.exe
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo15_NotificationBarIcon\bin\Debug\Demo15_NotificationBarIcon.pdb
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo15_NotificationBarIcon\obj\Debug\MainWindow.baml
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo15_NotificationBarIcon\obj\Debug\Demo15_NotificationBarIcon.g.resources
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo15_NotificationBarIcon\obj\Debug\Demo15_NotificationBarIcon.Properties.Resources.resources
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo15_NotificationBarIcon\obj\Debug\Demo15_NotificationBarIcon.csproj.GenerateResource.Cache
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo15_NotificationBarIcon\obj\Debug\Demo15_NotificationBarIcon.exe
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo15_NotificationBarIcon\obj\Debug\Demo15_NotificationBarIcon.pdb

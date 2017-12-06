@@ -1,0 +1,15 @@
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo10_ChildFormReturnAttribute\bin\Debug\Demo10_ChildFormReturnAttribute.exe.config
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo10_ChildFormReturnAttribute\bin\Debug\Demo10_ChildFormReturnAttribute.exe
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo10_ChildFormReturnAttribute\bin\Debug\Demo10_ChildFormReturnAttribute.pdb
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo10_ChildFormReturnAttribute\obj\Debug\ChildForm.g.cs
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo10_ChildFormReturnAttribute\obj\Debug\MainWindow.g.cs
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo10_ChildFormReturnAttribute\obj\Debug\App.g.cs
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo10_ChildFormReturnAttribute\obj\Debug\Demo10_ChildFormReturnAttribute_MarkupCompile.cache
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo10_ChildFormReturnAttribute\obj\Debug\Demo10_ChildFormReturnAttribute_MarkupCompile.lref
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo10_ChildFormReturnAttribute\obj\Debug\ChildForm.baml
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo10_ChildFormReturnAttribute\obj\Debug\MainWindow.baml
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo10_ChildFormReturnAttribute\obj\Debug\Demo10_ChildFormReturnAttribute.g.resources
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo10_ChildFormReturnAttribute\obj\Debug\Demo10_ChildFormReturnAttribute.Properties.Resources.resources
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo10_ChildFormReturnAttribute\obj\Debug\Demo10_ChildFormReturnAttribute.csproj.GenerateResource.Cache
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo10_ChildFormReturnAttribute\obj\Debug\Demo10_ChildFormReturnAttribute.exe
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo10_ChildFormReturnAttribute\obj\Debug\Demo10_ChildFormReturnAttribute.pdb

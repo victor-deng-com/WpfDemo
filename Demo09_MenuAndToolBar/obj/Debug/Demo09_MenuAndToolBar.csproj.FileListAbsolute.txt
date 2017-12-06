@@ -1,0 +1,14 @@
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo09_MenuAndToolBar\bin\Debug\Demo09_MenuAndToolBar.exe.config
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo09_MenuAndToolBar\obj\Debug\MainWindow.g.cs
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo09_MenuAndToolBar\obj\Debug\App.g.cs
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo09_MenuAndToolBar\obj\Debug\Demo09_MenuAndToolBar_MarkupCompile.cache
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo09_MenuAndToolBar\obj\Debug\Demo09_MenuAndToolBar_MarkupCompile.lref
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo09_MenuAndToolBar\bin\Debug\Demo09_MenuAndToolBar.exe
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo09_MenuAndToolBar\bin\Debug\Demo09_MenuAndToolBar.pdb
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo09_MenuAndToolBar\obj\Debug\MainWindow.baml
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo09_MenuAndToolBar\obj\Debug\Demo09_MenuAndToolBar.g.resources
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo09_MenuAndToolBar\obj\Debug\Demo09_MenuAndToolBar.Properties.Resources.resources
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo09_MenuAndToolBar\obj\Debug\Demo09_MenuAndToolBar.csproj.GenerateResource.Cache
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo09_MenuAndToolBar\obj\Debug\Demo09_MenuAndToolBar.exe
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo09_MenuAndToolBar\obj\Debug\Demo09_MenuAndToolBar.pdb
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo09_MenuAndToolBar\obj\Debug\Demo09_MenuAndToolBar.csprojResolveAssemblyReference.cache

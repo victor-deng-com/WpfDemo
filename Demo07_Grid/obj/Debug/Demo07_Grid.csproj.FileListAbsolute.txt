@@ -1,0 +1,13 @@
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo07_Grid\bin\Debug\Demo07_Grid.exe.config
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo07_Grid\bin\Debug\Demo07_Grid.exe
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo07_Grid\bin\Debug\Demo07_Grid.pdb
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo07_Grid\obj\Debug\MainWindow.g.cs
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo07_Grid\obj\Debug\App.g.cs
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo07_Grid\obj\Debug\Demo07_Grid_MarkupCompile.cache
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo07_Grid\obj\Debug\Demo07_Grid_MarkupCompile.lref
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo07_Grid\obj\Debug\MainWindow.baml
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo07_Grid\obj\Debug\Demo07_Grid.g.resources
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo07_Grid\obj\Debug\Demo07_Grid.Properties.Resources.resources
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo07_Grid\obj\Debug\Demo07_Grid.csproj.GenerateResource.Cache
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo07_Grid\obj\Debug\Demo07_Grid.exe
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo07_Grid\obj\Debug\Demo07_Grid.pdb

@@ -1,0 +1,14 @@
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo06_StackPanel\bin\Debug\Demo06_StackPanel.exe.config
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo06_StackPanel\bin\Debug\Demo06_StackPanel.exe
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo06_StackPanel\bin\Debug\Demo06_StackPanel.pdb
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo06_StackPanel\obj\Debug\MainWindow.g.cs
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo06_StackPanel\obj\Debug\App.g.cs
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo06_StackPanel\obj\Debug\Demo06_StackPanel_MarkupCompile.cache
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo06_StackPanel\obj\Debug\Demo06_StackPanel_MarkupCompile.lref
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo06_StackPanel\obj\Debug\MainWindow.baml
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo06_StackPanel\obj\Debug\Demo06_StackPanel.g.resources
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo06_StackPanel\obj\Debug\Demo06_StackPanel.Properties.Resources.resources
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo06_StackPanel\obj\Debug\Demo06_StackPanel.csproj.GenerateResource.Cache
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo06_StackPanel\obj\Debug\Demo06_StackPanel.exe
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo06_StackPanel\obj\Debug\Demo06_StackPanel.pdb
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo06_StackPanel\obj\Debug\Demo06_StackPanel.csprojResolveAssemblyReference.cache

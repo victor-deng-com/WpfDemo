@@ -1,0 +1,13 @@
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo02_SenderOfEvent\bin\Release\Demo02_SenderOfEvent.exe.config
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo02_SenderOfEvent\bin\Release\Demo02_SenderOfEvent.exe
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo02_SenderOfEvent\bin\Release\Demo02_SenderOfEvent.pdb
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo02_SenderOfEvent\obj\Release\MainWindow.g.cs
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo02_SenderOfEvent\obj\Release\App.g.cs
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo02_SenderOfEvent\obj\Release\Demo02_SenderOfEvent_MarkupCompile.cache
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo02_SenderOfEvent\obj\Release\Demo02_SenderOfEvent_MarkupCompile.lref
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo02_SenderOfEvent\obj\Release\MainWindow.baml
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo02_SenderOfEvent\obj\Release\Demo02_SenderOfEvent.g.resources
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo02_SenderOfEvent\obj\Release\Demo02_SenderOfEvent.Properties.Resources.resources
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo02_SenderOfEvent\obj\Release\Demo02_SenderOfEvent.csproj.GenerateResource.Cache
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo02_SenderOfEvent\obj\Release\Demo02_SenderOfEvent.exe
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo02_SenderOfEvent\obj\Release\Demo02_SenderOfEvent.pdb

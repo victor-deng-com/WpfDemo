@@ -1,0 +1,16 @@
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo11_ConfirmForm\bin\Debug\Demo11_ConfirmForm.exe.config
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo11_ConfirmForm\bin\Debug\Demo11_ConfirmForm.exe
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo11_ConfirmForm\bin\Debug\Demo11_ConfirmForm.pdb
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo11_ConfirmForm\obj\Debug\Demo11_ConfirmForm.csprojResolveAssemblyReference.cache
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo11_ConfirmForm\obj\Debug\ConfirmForm.g.cs
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo11_ConfirmForm\obj\Debug\MainWindow.g.cs
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo11_ConfirmForm\obj\Debug\App.g.cs
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo11_ConfirmForm\obj\Debug\Demo11_ConfirmForm_MarkupCompile.cache
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo11_ConfirmForm\obj\Debug\Demo11_ConfirmForm_MarkupCompile.lref
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo11_ConfirmForm\obj\Debug\ConfirmForm.baml
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo11_ConfirmForm\obj\Debug\MainWindow.baml
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo11_ConfirmForm\obj\Debug\Demo11_ConfirmForm.g.resources
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo11_ConfirmForm\obj\Debug\Demo11_ConfirmForm.Properties.Resources.resources
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo11_ConfirmForm\obj\Debug\Demo11_ConfirmForm.csproj.GenerateResource.Cache
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo11_ConfirmForm\obj\Debug\Demo11_ConfirmForm.exe
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo11_ConfirmForm\obj\Debug\Demo11_ConfirmForm.pdb
