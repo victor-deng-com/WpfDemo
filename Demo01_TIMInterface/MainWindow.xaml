@@ -7,6 +7,7 @@
         mc:Ignorable="d"
         Title="模仿TIM界面设计" Height="350" Width="525">
     <Grid>
-        
+        <TextBox Text="本来这里是模仿QQ的TIM版本做一个界面的，但时间不是很充足，而且我比较懒，先拖着等什么时候想做了再来弄，或者干脆就不管这个坑位了。" 
+                   TextWrapping="Wrap" AcceptsReturn="True"></TextBox>
     </Grid>
 </Window>

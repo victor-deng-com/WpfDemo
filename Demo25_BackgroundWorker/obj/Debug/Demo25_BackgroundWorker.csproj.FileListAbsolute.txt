@@ -1,0 +1,13 @@
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo25_BackgroundWorker\bin\Debug\Demo25_BackgroundWorker.exe.config
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo25_BackgroundWorker\bin\Debug\Demo25_BackgroundWorker.exe
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo25_BackgroundWorker\bin\Debug\Demo25_BackgroundWorker.pdb
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo25_BackgroundWorker\obj\Debug\MainWindow.g.cs
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo25_BackgroundWorker\obj\Debug\App.g.cs
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo25_BackgroundWorker\obj\Debug\Demo25_BackgroundWorker_MarkupCompile.cache
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo25_BackgroundWorker\obj\Debug\Demo25_BackgroundWorker_MarkupCompile.lref
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo25_BackgroundWorker\obj\Debug\MainWindow.baml
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo25_BackgroundWorker\obj\Debug\Demo25_BackgroundWorker.g.resources
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo25_BackgroundWorker\obj\Debug\Demo25_BackgroundWorker.Properties.Resources.resources
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo25_BackgroundWorker\obj\Debug\Demo25_BackgroundWorker.csproj.GenerateResource.Cache
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo25_BackgroundWorker\obj\Debug\Demo25_BackgroundWorker.exe
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo25_BackgroundWorker\obj\Debug\Demo25_BackgroundWorker.pdb

@@ -1,0 +1,14 @@
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo27_ComboBox\bin\Debug\Demo27_ComboBox.exe.config
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo27_ComboBox\bin\Debug\Demo27_ComboBox.exe
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo27_ComboBox\bin\Debug\Demo27_ComboBox.pdb
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo27_ComboBox\obj\Debug\Demo27_ComboBox.csprojResolveAssemblyReference.cache
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo27_ComboBox\obj\Debug\MainWindow.g.cs
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo27_ComboBox\obj\Debug\App.g.cs
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo27_ComboBox\obj\Debug\Demo27_ComboBox_MarkupCompile.cache
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo27_ComboBox\obj\Debug\Demo27_ComboBox_MarkupCompile.lref
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo27_ComboBox\obj\Debug\MainWindow.baml
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo27_ComboBox\obj\Debug\Demo27_ComboBox.g.resources
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo27_ComboBox\obj\Debug\Demo27_ComboBox.Properties.Resources.resources
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo27_ComboBox\obj\Debug\Demo27_ComboBox.csproj.GenerateResource.Cache
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo27_ComboBox\obj\Debug\Demo27_ComboBox.exe
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo27_ComboBox\obj\Debug\Demo27_ComboBox.pdb

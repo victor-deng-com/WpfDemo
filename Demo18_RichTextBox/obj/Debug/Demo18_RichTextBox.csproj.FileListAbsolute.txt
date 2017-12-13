@@ -1,0 +1,14 @@
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo18_RichTextBox\bin\Debug\Demo18_RichTextBox.exe.config
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo18_RichTextBox\bin\Debug\Demo18_RichTextBox.exe
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo18_RichTextBox\bin\Debug\Demo18_RichTextBox.pdb
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo18_RichTextBox\obj\Debug\Demo18_RichTextBox.csprojResolveAssemblyReference.cache
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo18_RichTextBox\obj\Debug\MainWindow.g.cs
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo18_RichTextBox\obj\Debug\App.g.cs
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo18_RichTextBox\obj\Debug\Demo18_RichTextBox_MarkupCompile.cache
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo18_RichTextBox\obj\Debug\Demo18_RichTextBox_MarkupCompile.lref
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo18_RichTextBox\obj\Debug\MainWindow.baml
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo18_RichTextBox\obj\Debug\Demo18_RichTextBox.g.resources
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo18_RichTextBox\obj\Debug\Demo18_RichTextBox.Properties.Resources.resources
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo18_RichTextBox\obj\Debug\Demo18_RichTextBox.csproj.GenerateResource.Cache
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo18_RichTextBox\obj\Debug\Demo18_RichTextBox.exe
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo18_RichTextBox\obj\Debug\Demo18_RichTextBox.pdb

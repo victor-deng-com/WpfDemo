@@ -1,0 +1,14 @@
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo26_Multithreading\bin\Debug\Demo26_Multithreading.exe.config
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo26_Multithreading\obj\Debug\Demo26_Multithreading.csprojResolveAssemblyReference.cache
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo26_Multithreading\obj\Debug\MainWindow.g.cs
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo26_Multithreading\obj\Debug\App.g.cs
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo26_Multithreading\obj\Debug\Demo26_Multithreading_MarkupCompile.cache
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo26_Multithreading\obj\Debug\Demo26_Multithreading_MarkupCompile.lref
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo26_Multithreading\bin\Debug\Demo26_Multithreading.exe
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo26_Multithreading\bin\Debug\Demo26_Multithreading.pdb
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo26_Multithreading\obj\Debug\MainWindow.baml
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo26_Multithreading\obj\Debug\Demo26_Multithreading.g.resources
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo26_Multithreading\obj\Debug\Demo26_Multithreading.Properties.Resources.resources
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo26_Multithreading\obj\Debug\Demo26_Multithreading.csproj.GenerateResource.Cache
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo26_Multithreading\obj\Debug\Demo26_Multithreading.exe
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo26_Multithreading\obj\Debug\Demo26_Multithreading.pdb

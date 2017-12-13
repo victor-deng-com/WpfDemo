@@ -1,0 +1,14 @@
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo20_ButtonLeftClickMenu\bin\Debug\Demo20_ButtonLeftClickMenu.exe.config
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo20_ButtonLeftClickMenu\bin\Debug\Demo20_ButtonLeftClickMenu.exe
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo20_ButtonLeftClickMenu\bin\Debug\Demo20_ButtonLeftClickMenu.pdb
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo20_ButtonLeftClickMenu\obj\Debug\Demo20_ButtonLeftClickMenu.csprojResolveAssemblyReference.cache
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo20_ButtonLeftClickMenu\obj\Debug\MainWindow.g.cs
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo20_ButtonLeftClickMenu\obj\Debug\App.g.cs
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo20_ButtonLeftClickMenu\obj\Debug\Demo20_ButtonLeftClickMenu_MarkupCompile.cache
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo20_ButtonLeftClickMenu\obj\Debug\Demo20_ButtonLeftClickMenu_MarkupCompile.lref
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo20_ButtonLeftClickMenu\obj\Debug\MainWindow.baml
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo20_ButtonLeftClickMenu\obj\Debug\Demo20_ButtonLeftClickMenu.g.resources
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo20_ButtonLeftClickMenu\obj\Debug\Demo20_ButtonLeftClickMenu.Properties.Resources.resources
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo20_ButtonLeftClickMenu\obj\Debug\Demo20_ButtonLeftClickMenu.csproj.GenerateResource.Cache
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo20_ButtonLeftClickMenu\obj\Debug\Demo20_ButtonLeftClickMenu.exe
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo20_ButtonLeftClickMenu\obj\Debug\Demo20_ButtonLeftClickMenu.pdb

@@ -1,0 +1,14 @@
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo24_ButtonShortcutKey\bin\Debug\Demo24_ButtonShortcutKey.exe.config
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo24_ButtonShortcutKey\bin\Debug\Demo24_ButtonShortcutKey.exe
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo24_ButtonShortcutKey\bin\Debug\Demo24_ButtonShortcutKey.pdb
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo24_ButtonShortcutKey\obj\Debug\Demo24_ButtonShortcutKey.csprojResolveAssemblyReference.cache
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo24_ButtonShortcutKey\obj\Debug\MainWindow.g.cs
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo24_ButtonShortcutKey\obj\Debug\App.g.cs
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo24_ButtonShortcutKey\obj\Debug\Demo24_ButtonShortcutKey_MarkupCompile.cache
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo24_ButtonShortcutKey\obj\Debug\Demo24_ButtonShortcutKey_MarkupCompile.lref
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo24_ButtonShortcutKey\obj\Debug\MainWindow.baml
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo24_ButtonShortcutKey\obj\Debug\Demo24_ButtonShortcutKey.g.resources
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo24_ButtonShortcutKey\obj\Debug\Demo24_ButtonShortcutKey.Properties.Resources.resources
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo24_ButtonShortcutKey\obj\Debug\Demo24_ButtonShortcutKey.csproj.GenerateResource.Cache
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo24_ButtonShortcutKey\obj\Debug\Demo24_ButtonShortcutKey.exe
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo24_ButtonShortcutKey\obj\Debug\Demo24_ButtonShortcutKey.pdb

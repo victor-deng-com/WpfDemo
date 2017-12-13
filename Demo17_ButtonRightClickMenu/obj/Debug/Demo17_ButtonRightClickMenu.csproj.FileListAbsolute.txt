@@ -1,0 +1,13 @@
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo17_ButtonRightClickMenu\bin\Debug\Demo17_ButtonRightClickMenu.exe.config
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo17_ButtonRightClickMenu\bin\Debug\Demo17_ButtonRightClickMenu.exe
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo17_ButtonRightClickMenu\bin\Debug\Demo17_ButtonRightClickMenu.pdb
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo17_ButtonRightClickMenu\obj\Debug\MainWindow.g.cs
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo17_ButtonRightClickMenu\obj\Debug\App.g.cs
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo17_ButtonRightClickMenu\obj\Debug\Demo17_ButtonRightClickMenu_MarkupCompile.cache
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo17_ButtonRightClickMenu\obj\Debug\Demo17_ButtonRightClickMenu_MarkupCompile.lref
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo17_ButtonRightClickMenu\obj\Debug\MainWindow.baml
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo17_ButtonRightClickMenu\obj\Debug\Demo17_ButtonRightClickMenu.g.resources
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo17_ButtonRightClickMenu\obj\Debug\Demo17_ButtonRightClickMenu.Properties.Resources.resources
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo17_ButtonRightClickMenu\obj\Debug\Demo17_ButtonRightClickMenu.csproj.GenerateResource.Cache
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo17_ButtonRightClickMenu\obj\Debug\Demo17_ButtonRightClickMenu.exe
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo17_ButtonRightClickMenu\obj\Debug\Demo17_ButtonRightClickMenu.pdb

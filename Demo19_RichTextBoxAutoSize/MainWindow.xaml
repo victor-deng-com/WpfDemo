@@ -1,0 +1,66 @@
+﻿<Window x:Class="Demo19_RichTextBoxAutoSize.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Demo19_RichTextBoxAutoSize"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <StackPanel Name="sp_messageDetail_outside" Grid.Row="0" Margin="0,8,0,0">
+            <!--留言详细信息-->
+            <Grid Margin="10,2,80,2">
+                <Grid.RowDefinitions>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <TextBlock Text="Gary Tang | 2017-12-07 15:03:22"
+                                       Foreground="#666666" Grid.Row="0"></TextBlock>
+                <StackPanel Grid.Row="1">
+                    <Image Source="/Resources/Images/BubblePoint_gray.png" 
+                                       Width="10" Margin="20,0,0,0"
+                                       VerticalAlignment="Bottom" HorizontalAlignment="Left"></Image>
+                    <StackPanel Orientation="Horizontal">
+                        <!--<TextBox Text="文字区域文字区域,Nice to meet you"></TextBox>-->
+                        <RichTextBox Name="rtb_detail" IsReadOnly="True" MinWidth="50" AcceptsReturn="True"
+                                 BorderBrush="#e6e6e6" Background="#e6e6e6" Foreground="#000000">
+                            <RichTextBox.Document>
+                                <FlowDocument Focusable="True" MinPageWidth="50" MaxPageWidth="500">
+                                    <Paragraph x:Name="gara">
+                                        <Run Text="Hello,Nice to meet you"></Run>
+                                    </Paragraph>
+                                </FlowDocument>
+                            </RichTextBox.Document>
+                        </RichTextBox>
+                    </StackPanel>
+                </StackPanel>
+            </Grid>
+            <Grid Margin="90,2,10,2">
+                <Grid.RowDefinitions>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <TextBlock Text="2017-12-07 15:03:22 | Blooming Jelly"
+                                       Foreground="#666666" Grid.Row="0"
+                                       VerticalAlignment="Center" HorizontalAlignment="Right"></TextBlock>
+                <StackPanel Grid.Row="1">
+                    <Image Source="/Resources/Images/BubblePoint_blue.png" 
+                                       Width="10" Margin="0,0,20,0"
+                                       VerticalAlignment="Bottom" HorizontalAlignment="Right"></Image>
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                        <TextBox Name="tb_detail" Text="Hello,Nice to meet you"
+                                            IsReadOnly="True" Width="Auto" TextWrapping="Wrap" AcceptsReturn="True"
+                                            BorderBrush="#1e91fe" Background="#1e91fe" Foreground="#FFFFFF">
+                        </TextBox>
+                    </StackPanel>
+                </StackPanel>
+            </Grid>
+        </StackPanel>
+    </Grid>
+</Window>

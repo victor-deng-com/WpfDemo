@@ -1,0 +1,14 @@
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo21_ShowPanel\bin\Debug\Demo21_ShowPanel.exe.config
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo21_ShowPanel\bin\Debug\Demo21_ShowPanel.exe
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo21_ShowPanel\bin\Debug\Demo21_ShowPanel.pdb
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo21_ShowPanel\obj\Debug\MainWindow.g.cs
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo21_ShowPanel\obj\Debug\App.g.cs
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo21_ShowPanel\obj\Debug\Demo21_ShowPanel_MarkupCompile.cache
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo21_ShowPanel\obj\Debug\Demo21_ShowPanel_MarkupCompile.lref
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo21_ShowPanel\obj\Debug\MainWindow.baml
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo21_ShowPanel\obj\Debug\Demo21_ShowPanel.g.resources
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo21_ShowPanel\obj\Debug\Demo21_ShowPanel.Properties.Resources.resources
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo21_ShowPanel\obj\Debug\Demo21_ShowPanel.csproj.GenerateResource.Cache
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo21_ShowPanel\obj\Debug\Demo21_ShowPanel.exe
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo21_ShowPanel\obj\Debug\Demo21_ShowPanel.pdb
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo21_ShowPanel\obj\Debug\Demo21_ShowPanel.csprojResolveAssemblyReference.cache

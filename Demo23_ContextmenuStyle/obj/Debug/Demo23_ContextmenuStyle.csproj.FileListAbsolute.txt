@@ -1,0 +1,14 @@
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo23_ContextmenuStyle\bin\Debug\Demo23_ContextmenuStyle.exe.config
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo23_ContextmenuStyle\bin\Debug\Demo23_ContextmenuStyle.exe
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo23_ContextmenuStyle\bin\Debug\Demo23_ContextmenuStyle.pdb
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo23_ContextmenuStyle\obj\Debug\Demo23_ContextmenuStyle.csprojResolveAssemblyReference.cache
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo23_ContextmenuStyle\obj\Debug\MainWindow.g.cs
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo23_ContextmenuStyle\obj\Debug\App.g.cs
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo23_ContextmenuStyle\obj\Debug\Demo23_ContextmenuStyle_MarkupCompile.cache
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo23_ContextmenuStyle\obj\Debug\Demo23_ContextmenuStyle_MarkupCompile.lref
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo23_ContextmenuStyle\obj\Debug\MainWindow.baml
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo23_ContextmenuStyle\obj\Debug\Demo23_ContextmenuStyle.g.resources
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo23_ContextmenuStyle\obj\Debug\Demo23_ContextmenuStyle.Properties.Resources.resources
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo23_ContextmenuStyle\obj\Debug\Demo23_ContextmenuStyle.csproj.GenerateResource.Cache
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo23_ContextmenuStyle\obj\Debug\Demo23_ContextmenuStyle.exe
+D:\workspace\VisualStudio\Projects\Github_private\WpfDemo\Demo23_ContextmenuStyle\obj\Debug\Demo23_ContextmenuStyle.pdb
