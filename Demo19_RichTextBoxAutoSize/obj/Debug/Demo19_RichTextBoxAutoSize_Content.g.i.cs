@@ -8,7 +8,6 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("resources/images/bubblepoint_blue.png")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("resources/images/bubblepoint_gray.png")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("img_bg.png")]
 
 

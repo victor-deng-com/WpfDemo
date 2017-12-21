@@ -30,13 +30,13 @@ namespace Demo19_RichTextBoxAutoSize
         {
             //rtb_detail.Width = tb_detail.Width;
 
-            TextBlock tb = new TextBlock();
-            tb.Text= "hello!hello!hello!hello!hello!hello!hello!hello!";
-            double w1=tb.Width;
+            //TextBlock tb = new TextBlock();
+            //tb.Text= "hello!hello!hello!hello!hello!hello!hello!hello!";
+            //double w1=tb.Width;
 
-            TextBox tb_hide = new TextBox();
-            tb_hide.Text = "hello!hello!hello!hello!hello!hello!hello!hello!";
-            double w = tb_hide.Width;
+            //TextBox tb_hide = new TextBox();
+            //tb_hide.Text = "hello!hello!hello!hello!hello!hello!hello!hello!";
+            //double w = tb_hide.Width;
 
             //Grid 表格，用于留言详情的布局
             Grid grid_messageDetail_buyer = new Grid();
@@ -92,12 +92,28 @@ namespace Demo19_RichTextBoxAutoSize
             Brush bru_white = bc_white.ConvertFromInvariantString("#000000") as Brush;
             rtb_messageDetail.Foreground = bru_white;
 
+           
+            
             //富文本编辑框内的文字内容和图片
             string detailText = "hello!hello!hello!hello!hello!hello!hello!hello!";
             FlowDocument doc = new FlowDocument();
             Paragraph p = new Paragraph();
-            Run r = new Run(detailText);
-            p.Inlines.Add(r);//Run级元素添加到Paragraph元素的Inline
+            Run r1 = new Run(detailText);
+            Run r2 = new Run(detailText);
+
+            //图片
+            Image img = new Image();
+            BitmapImage bImg = new BitmapImage();
+            bImg.BeginInit();
+            bImg.UriSource = new Uri("img_bg.png", UriKind.Relative);
+            bImg.EndInit();
+            img.Source = bImg;
+            img.Width = 50;
+            InlineUIContainer il_img = new InlineUIContainer(img);
+
+            p.Inlines.Add(r1);//Run级元素添加到Paragraph元素的Inline
+            p.Inlines.Add(il_img);
+            p.Inlines.Add(r2);
             doc.Blocks.Add(p);//Paragraph级元素添加到流文档的块级元素
             rtb_messageDetail.Document = doc;
             Image message_image = new Image();
@@ -106,6 +122,7 @@ namespace Demo19_RichTextBoxAutoSize
             InlineUIContainer container = new InlineUIContainer(message_image);
             Paragraph paragraph = new Paragraph(container);
             rtb_messageDetail.Document.Blocks.Add(paragraph);
+            //rtb_messageDetail.Document.Blocks.Add(p);
 
             sp_messageDetail.Children.Add(rtb_messageDetail);
 
